@@ -1,0 +1,5 @@
+1. pip3 install multiprocessing
+2. pip3 install termcolor
+3. pip3 install configparser
+4. pip3 install Pillow
+5. pip3 install paho-mqtt
